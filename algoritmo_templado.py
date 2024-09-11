@@ -48,7 +48,7 @@ def simulated_annealing(ruta):
         # Enfriar a T linealmente
         T = T - 0.005
     
-    return ruta
+    return ruta;
 
 if __name__ == "_main_" :
     coord = {
